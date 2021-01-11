@@ -31,7 +31,7 @@
     fun();
 ```
 
-mermaid 
+flow 
 graph LR 
     start[开始] --> input[输入A,B,C]
     input --> conditionA{A是否大于B}
