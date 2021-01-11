@@ -31,8 +31,8 @@
     fun();
 ```
 
-mermaid
-graph LR
+mermaid 
+graph LR 
     start[开始] --> input[输入A,B,C]
     input --> conditionA{A是否大于B}
     conditionA -- YES --> conditionC{A是否大于C}
